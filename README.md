@@ -5,4 +5,4 @@ I'm a IT student at nösänsgymnasiet in sweden. At the moment I'm trying to lea
 
 * 🌍  I'm based in sweden
 *  ✉️  You can contact me at [Joelberglund4497@gmail.com](mailto:Joelberglund4497@gmail.com)
-*  🧠  I'm learning c++ and cryptography
+*  🧠  I'm learning c++, cryptography, HTML and css
